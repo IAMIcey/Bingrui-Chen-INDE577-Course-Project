@@ -37,3 +37,14 @@ The data USA_Housing retrieved from kaggle contains the following columns:
 diagnosis: B(Benign) M (Malicious)
 radius_mean, texture_mean, perimeter_mean, area_mean, smoothness_mean, compactness_mean, concavity_mean, concave points_mean
 https://www.kaggle.com/code/devikasanthosh04/knn-algorithm-dataset-cancer-detection/notebook
+
+### POSSUM Dataset
+The possum dataset contains data about 104 possums:
+sex, age, head length, skull width, etc.
+Original Source of dataset:
+
+Lindenmayer, D. B., Viggers, K. L., Cunningham, R. B., and Donnelly, C. F. 1995. Morphological variation among columns of the mountain brushtail possum, Trichosurus caninus Ogilby (Phalangeridae: Marsupialia). Australian Journal of Zoology 43: 449-458.”
+A subset of the data was also put together for the OpenIntro Statistics book chapter 8 Introduction to Linear Regression.
+
+https://www.openintro.org/data/
+
