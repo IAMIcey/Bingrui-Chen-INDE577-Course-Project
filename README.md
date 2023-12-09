@@ -21,8 +21,6 @@ This repository contains my course project for the INDE577 class at Rice Univers
 - k-Means Clustering
 - Principle Component Analysis
 
-### Reinforcement Learning
-- Tabular vs. Deep Learning Methods
 
 ## Environment
 
